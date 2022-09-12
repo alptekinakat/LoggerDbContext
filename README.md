@@ -1,4 +1,4 @@
-# EntityZipConverter
+# Entity Logger DbContext
 
 Net Entity Logger Context
 
